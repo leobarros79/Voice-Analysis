@@ -14,7 +14,7 @@ The main reason for the development of this research project is the fact that th
 
 * RAVDESS: This dataset includes around 1500 audio file input from 24 different actors. 12 male and 12 female where these actors record short audios in 8 different emotions i.e 1 = neutral, 2 = calm, 3 = happy, 4 = sad, 5 = angry, 6 = fearful, 7 = disgust, 8 = surprised. It can be found [here](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio) or [here](https://smartlaboratory.org/ravdess/). Dataset consists of different emotions like -  *neutral*, *calm*, *happy*, *sad*, *angry*, *fearful*, *disgust*, *surprised*.
 
-### Team Members
+## Team Members
 
 Leonardo Barros, Iftekhar Ahmed, Eduardo Almeida, Ian Garnerh
 
